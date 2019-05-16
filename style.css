@@ -10,7 +10,7 @@ img {
   display: block;
   margin: 0 auto;
 }
-nav {
+nav a {
   padding: 10px;
   color: gray;
 }
