@@ -27,7 +27,7 @@ figure figcaption {
   margin: 0 auto;
 }
 
-#details {
+#details * {
   display: block;
   
 }
