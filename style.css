@@ -11,8 +11,8 @@ img {
   margin: 0 auto;
 }
 nav a {
-  padding: 10px;
-  background-color: grey;
+  padding: 0 10px;
+  background-color: gray;
 }
 
 figure figcaption {
